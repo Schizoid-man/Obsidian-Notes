@@ -1,16 +1,16 @@
 ## Levels of Abstraction
-![[Pasted image 20240730124919.png]]
-![[Pasted image 20240730125617.png]]
+![[DBMS course/Week 1/assets/Pasted image 20240730124919.png]]
+![[DBMS course/Week1/assets/Pasted image 20240730125617.png]]
 
 ## Schemas and Instances
 _Schema_ :_Basically an outline of the data required for our database_
 We have 2 types: Logical Schema and Physical Schema
-![[Pasted image 20240730125945.png]]
+![[DBMS course/Week 1/assets/Pasted image 20240730125945.png]]
 The schemas only tell us about the type of data stored in it. It is just a container or a label for the data. It **isn't the actual data itself stored in the database.**
 
 _Instances_ : The actual data stored in the database is the instance. 
 
-![[Pasted image 20240730130803.png]]
+![[DBMS course/Week 1/assets/Pasted image 20240730130803.png]]
 
 Instances keep changing because of the nature of the database. But schemas rarely change unless we need to add a new field. 
 
@@ -19,7 +19,7 @@ Logical Schema is linked to the view (high-level abstraction) and logical schema
 Usually you wouldn't want the logical schema to changes because then the view level and the applications... everything would have to change. 
 On the other hand, it may be that the physical schema has to change because of storage or expansion. So it would be better to change the physical schema without changing the logical schema
 
-![[Pasted image 20240730131432.png]]
+![[DBMS course/Week 1/assets/Pasted image 20240730131432.png]]
 
 
 ## Data Models
@@ -30,7 +30,7 @@ XML - extensiable markup language
 
 We will most be working on a relational model in this course
 
-![[Pasted image 20240730141846.png]]
+![[DBMS course/Week 1/assets/Pasted image 20240730141846.png]]
 
 ## Data Definition Language (DDL)
 
@@ -41,7 +41,7 @@ Eg: `create table instructor(`
 	`dept_name  varchar(20),`
 	`salary numeric(8,2)`
 `)`
-![[Pasted image 20240730142331.png]]
+![[DBMS course/Week 1/assets/Pasted image 20240730142331.png]]
 ## Data Manipulation Language (DML)
 
 We'll be using SQL which is a widely used commercial language
