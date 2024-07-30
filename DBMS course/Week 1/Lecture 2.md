@@ -1,5 +1,5 @@
 ## Levels of Abstraction
-![[DBMS course/Week 1/assets/Pasted image 20240730124919.png]]
+![Image 1](DBMS course/Week 1/assets/Pasted image 20240730124919.png)
 ![[DBMS course/Week 1/assets/Pasted image 20240730125617.png]]
 
 ## Schemas and Instances
