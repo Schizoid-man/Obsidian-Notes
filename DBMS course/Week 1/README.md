@@ -1,6 +1,6 @@
 ## Levels of Abstraction
 ![Image 1](https://github.com/Schizoid-man/Obsidian-Notes/blob/c09a14c958ac1e3ed1c257f380a65a7c583c377d/DBMS%20course/Week%201/assets/Pasted%20image%2020240730124919.png)
-![Image 2](https://github.com/Schizoid-man/Obsidian-Notes/blob/c09a14c958ac1e3ed1c257f380a65a7c583c377d/DBMS%20course/Week%201/assets/Pasted%20image%20240730125617.png)
+![Image 2](https://github.com/Schizoid-man/Obsidian-Notes/blob/d146af5f33155c3dd7f0e9698afbbe6f0d6d751a/DBMS%20course/Week%201/assets/Pasted%20image%2020240730125617.png)
 
 ## Schemas and Instances
 _Schema_ :_Basically an outline of the data required for our database_
