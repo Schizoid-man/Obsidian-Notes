@@ -5,12 +5,12 @@
 ## Schemas and Instances
 _Schema_ :_Basically an outline of the data required for our database_
 We have 2 types: Logical Schema and Physical Schema
-![[DBMS course/Week 1/assets/Pasted image 20240730125945.png]]
+![Image 3](https://github.com/Schizoid-man/Obsidian-Notes/blob/da0c222d0562ed5befb13eb2c4dabe0b2dfeaf6f/DBMS%20course/Week%201/assets/Pasted%20image%2020240730125945.png)
 The schemas only tell us about the type of data stored in it. It is just a container or a label for the data. It **isn't the actual data itself stored in the database.**
 
 _Instances_ : The actual data stored in the database is the instance. 
 
-![[DBMS course/Week 1/assets/Pasted image 20240730130803.png]]
+![Image 4](https://github.com/Schizoid-man/Obsidian-Notes/blob/da0c222d0562ed5befb13eb2c4dabe0b2dfeaf6f/DBMS%20course/Week%201/assets/Pasted%20image%2020240730130803.png)
 
 Instances keep changing because of the nature of the database. But schemas rarely change unless we need to add a new field. 
 
@@ -19,7 +19,7 @@ Logical Schema is linked to the view (high-level abstraction) and logical schema
 Usually you wouldn't want the logical schema to changes because then the view level and the applications... everything would have to change. 
 On the other hand, it may be that the physical schema has to change because of storage or expansion. So it would be better to change the physical schema without changing the logical schema
 
-![[DBMS course/Week 1/assets/Pasted image 20240730131432.png]]
+![Image 5](https://github.com/Schizoid-man/Obsidian-Notes/blob/da0c222d0562ed5befb13eb2c4dabe0b2dfeaf6f/DBMS%20course/Week%201/assets/Pasted%20image%2020240730131432.png)
 
 
 ## Data Models
@@ -30,7 +30,8 @@ XML - extensiable markup language
 
 We will most be working on a relational model in this course
 
-![[DBMS course/Week 1/assets/Pasted image 20240730141846.png]]
+![Image 6](https://github.com/Schizoid-man/Obsidian-Notes/blob/da0c222d0562ed5befb13eb2c4dabe0b2dfeaf6f/DBMS%20course/Week%201/assets/Pasted%20image%2020240730141846.png
+)
 
 ## Data Definition Language (DDL)
 
@@ -41,7 +42,8 @@ Eg: `create table instructor(`
 	`dept_name  varchar(20),`
 	`salary numeric(8,2)`
 `)`
-![[DBMS course/Week 1/assets/Pasted image 20240730142331.png]]
+![Image 7](https://github.com/Schizoid-man/Obsidian-Notes/blob/da0c222d0562ed5befb13eb2c4dabe0b2dfeaf6f/DBMS%20course/Week%201/assets/Pasted%20image%2020240730142331.png
+)
 ## Data Manipulation Language (DML)
 
 We'll be using SQL which is a widely used commercial language
