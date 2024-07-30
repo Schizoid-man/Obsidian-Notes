@@ -1,6 +1,6 @@
 ## Design Approaches
 
-![](Pasted%20image%2020240730180244.png)
+![](assets/Pasted image 20240730180244.png)
 
 ## Object Relational Data Models
 ![](Pasted%20image%2020240730180609.png)
