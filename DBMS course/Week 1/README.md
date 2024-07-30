@@ -42,6 +42,8 @@ Eg: `create table instructor(`
 	`dept_name  varchar(20),`
 	`salary numeric(8,2)`
 `)`
+
+
 ![Image 7](https://github.com/Schizoid-man/Obsidian-Notes/blob/da0c222d0562ed5befb13eb2c4dabe0b2dfeaf6f/DBMS%20course/Week%201/assets/Pasted%20image%2020240730142331.png
 )
 ## Data Manipulation Language (DML)
