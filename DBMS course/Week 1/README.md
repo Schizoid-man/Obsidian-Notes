@@ -1,5 +1,5 @@
 ## Levels of Abstraction
-![Image 1](assets/Pasted image 20240730124919.png)
+![Image 1](https://github.com/Schizoid-man/Obsidian-Notes/blob/c09a14c958ac1e3ed1c257f380a65a7c583c377d/DBMS%20course/Week%201/assets/Pasted%20image%2020240730124919.png))
 ![[DBMS course/Week 1/assets/Pasted image 20240730125617.png]]
 
 ## Schemas and Instances
