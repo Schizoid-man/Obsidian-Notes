@@ -1,3 +1,12 @@
+---
+aliases:
+  - SQL basics
+tags:
+  - SQL
+  - Basics
+  - DBMS
+---
+
 # Data Definition Language
 ![](assets/Pasted%20image%2020240805204229.png)
 
@@ -61,8 +70,5 @@ This modification helps maintain data integrity by preventing duplicate or confl
 
 
 # Basic Query Structure
-```
-just testing out this feature
-lets check if it works
-```
+
 
