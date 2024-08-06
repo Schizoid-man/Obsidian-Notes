@@ -61,5 +61,20 @@ This modification helps maintain data integrity by preventing duplicate or confl
 
 
 # Basic Query Structure
+![](assets/Pasted%20image%2020240806212117.png)
 
+# `Select` Clause
 
+![](assets/Pasted%20image%2020240806212352.png)
+![](assets/Pasted%20image%2020240806214302.png)
+![](assets/Pasted%20image%2020240806214503.png)
+![](assets/Pasted%20image%2020240806214632.png)
+
+# `Where` Clause
+![](assets/Pasted%20image%2020240806214916.png)
+
+# `From` Clause
+![](assets/Pasted%20image%2020240806215524.png)
+
+Eg of Cartesian Product:
+![](assets/Pasted%20image%2020240806215604.png)
